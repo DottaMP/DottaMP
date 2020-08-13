@@ -18,7 +18,7 @@ This is the place where i opensource stuff and break things.
 ![Spring Boot Badge](https://img.shields.io/badge/-SpringBoot-green?style=flat&logo=SpringBoot&logoColor=white&link=https://codepen.io/laly_x/collections/) &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/angular.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;  
 
-![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=white&link=https://codepen.io/laly_x/collections/)&nbsp;&nbsp;&nbsp;&nbsp;
+![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=white&link=https://codepen.io/laly_x/collections/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/docker.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="left">
   
