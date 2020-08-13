@@ -16,20 +16,20 @@ This is the place where i opensource stuff and break things.
 
 and more...    
 <p align="left">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/java.png" width="80" height="25">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/js.png" width="80" height="25">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/angular.png" width="80" height="25">&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp; <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/java.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp; <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/js.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp; <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/angular.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;  
   
 
 &nbsp; ![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-green?style=flat&logo=SpringBoot&logoColor=white&link=https://codepen.io/laly_x/collections/) &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/nodejs.png" width="80" height="25">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/bootstrap.png" width="80" height="25">&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp; <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/nodejs.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/bootstrap.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;
 
 &nbsp; ![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=white&link=https://codepen.io/laly_x/collections/)&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/docker.png" width="80" height="25">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio.png" width="80" height="25">&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp; <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/docker.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp; <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://media0.giphy.com/media/AOSwwqVjNZlDO/200w.webp?cid=ecf05e4758d1a0e51cc00438214c03daf26abc95ba41b2d2&rid=200w.webp" width="150" height="80">
+&nbsp; <img src="https://media0.giphy.com/media/AOSwwqVjNZlDO/200w.webp?cid=ecf05e4758d1a0e51cc00438214c03daf26abc95ba41b2d2&rid=200w.webp" width="150" height="80">
 <p>   
 
 
