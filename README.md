@@ -15,7 +15,7 @@ This is the place where i opensource stuff and break things.
 <p align="left">   
 
 and more...    
-<p align="left">
+
 &nbsp; <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/java.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp; <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/js.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp; <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/angular.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;  
