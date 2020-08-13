@@ -12,23 +12,31 @@ This is the place where i opensource stuff and break things.
 ### Over here you'll find:
 
 <p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <img src="https://static.cloud-boxloja.com/lojas/wyfyg/produtos/6d886245-a7fa-43af-8b8e-4042d8adcc37.jpg" width="130" height="80">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="120" height="60">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/java.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/js.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/nodejs.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+![Spring Boot Badge](https://img.shields.io/badge/-SpringBoot-green?style=flat&logo=SpringBoot&logoColor=white&link=https://codepen.io/laly_x/collections/) &nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/angular.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/bootstrap.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;
 <p>  
+
+![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=white&link=https://codepen.io/laly_x/collections/)&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/docker.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://miro.medium.com/proxy/1*jMQ9lkY5SBnbcOlJB4aizg.png" width="200" height="50">
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.fullstackpython.com/img/logos/angular.png" width="200" height="50">
-<p>   
-<p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://digitalparana.com.br/wp-content/uploads/2018/07/Como-adicionar-novos-usu%C3%A1rios-no-MySQL-do-cPanel.png" width="200" height="80">
-&nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" width="200" height="60">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/eclipse.png" width="70" height="20">&nbsp;&nbsp;&nbsp;&nbsp;
 <p>    
 
 and more things...    
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DottaMP&layout=compact&theme=radical)
 <p align="left">
 <img src="https://media0.giphy.com/media/AOSwwqVjNZlDO/200w.webp?cid=ecf05e4758d1a0e51cc00438214c03daf26abc95ba41b2d2&rid=200w.webp" width="150" height="80">
 <p>   
+
+
 <!--
 **DottaMP/DottaMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
