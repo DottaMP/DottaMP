@@ -1,15 +1,15 @@
 # Hi, I'm Mayara 👩‍💻 
 ### Here's my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mayara-pdotta/)](https://www.linkedin.com/in/mayara-pdotta/)    
 
-A woman who can programming and love technology.  
+A woman who can programming and love technology. :coffee:  
 
-This is the place where i opensource stuff and break things.  
+This is the place where i opensource stuff and break things. :sparkles:
 
 <p align="left">
 <img src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e478gsfqosh67e3ktlzte0ktzlkc0x155caglw3mpq3&rid=giphy.gif" width="600" height="300">
 <p>    
 
-### Always curious to learn cutting edge technology.  
+### Always curious to learn cutting edge technology. :satellite:    
 ### Over here you'll find:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DottaMP&layout=compact&theme=radical)
