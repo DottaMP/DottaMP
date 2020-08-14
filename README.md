@@ -1,4 +1,5 @@
-# Hi, I'm Mayara 👩‍💻
+# Hi, I'm Mayara 👩‍💻 
+### Here's my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://github.com/DottaMP)](https://github.com/DottaMP)    
 
 A woman who can programming and love technology.  
 
@@ -18,15 +19,18 @@ This is the place where i opensource stuff and break things.
 
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/java.png" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/js.png" width="70" height="20">&nbsp;
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/python.png" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/angular.png" width="70" height="20">&nbsp; 
-![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-green?style=flat&logo=SpringBoot&logoColor=white&link=https://codepen.io/laly_x/collections/)&nbsp;
+![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-brightgreen?style=flat&logo=SpringBoot&logoColor=white&link=https://codepen.io/laly_x/collections/)&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/nodejs.png" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/bootstrap.png" width="70" height="20">&nbsp;
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=white&link=https://codepen.io/laly_x/collections/)&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/docker.png" width="70" height="20">&nbsp;
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio.png" width="70" height="20">&nbsp;  
-  
-&nbsp; <img src="https://media0.giphy.com/media/AOSwwqVjNZlDO/200w.webp?cid=ecf05e4758d1a0e51cc00438214c03daf26abc95ba41b2d2&rid=200w.webp" width="200" height="100">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio.png" width="70" height="20">&nbsp;
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/css3.png" width="70" height="20">&nbsp;
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/web.png" width="70" height="20">&nbsp;    
+
+&nbsp; <img src="https://media0.giphy.com/media/AOSwwqVjNZlDO/200w.webp?cid=ecf05e4758d1a0e51cc00438214c03daf26abc95ba41b2d2&rid=200w.webp" width="250" height="125">
 
 
 <!--
