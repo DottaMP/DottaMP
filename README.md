@@ -1,5 +1,5 @@
 # Hi, I'm Mayara 👩‍💻 
-### Here's my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://github.com/DottaMP)](https://github.com/DottaMP)    
+### Here's my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mayara-pdotta/)](https://www.linkedin.com/in/mayara-pdotta/)    
 
 A woman who can programming and love technology.  
 
