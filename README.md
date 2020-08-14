@@ -20,12 +20,12 @@ This is the place where i opensource stuff and break things. :sparkles:
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/java.png" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/js.png" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/python.png" width="70" height="20">&nbsp;
+![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=white&link=https://codepen.io/laly_x/collections/)&nbsp;
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/docker.png" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/angular.png" width="70" height="20">&nbsp; 
 ![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-brightgreen?style=flat&logo=SpringBoot&logoColor=white&link=https://codepen.io/laly_x/collections/)&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/nodejs.png" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/bootstrap.png" width="70" height="20">&nbsp;
-![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=white&link=https://codepen.io/laly_x/collections/)&nbsp;
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/docker.png" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio.png" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/css3.png" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/web.png" width="70" height="20">&nbsp;    
