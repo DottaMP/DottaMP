@@ -1,5 +1,5 @@
 # Hi, I'm Mayara 👩‍💻 
-# Oi, eu sou a Mayara 
+# Oi, sou a Mayara 
 ### Here's my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mayara-pdotta/)](https://www.linkedin.com/in/mayara-pdotta/)    
 ###### Aqui está meu LinkedIn.
 
