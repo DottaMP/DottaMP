@@ -1,21 +1,28 @@
 # Hi, I'm Mayara 👩‍💻 
+# Oi, eu sou a Mayara 
 ### Here's my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mayara-pdotta/)](https://www.linkedin.com/in/mayara-pdotta/)    
+###### Aqui está meu LinkedIn.
 
 A woman who can programming and love technology. :coffee:  
+###### Uma mulher que sabe programar e ama técnologia.
 
 This is the place where i opensource stuff and break things. :sparkles:
+###### Esse é o lugar onde eu abro o código e quebro coisas...
 
 <p align="left">
 <img src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e478gsfqosh67e3ktlzte0ktzlkc0x155caglw3mpq3&rid=giphy.gif" width="600" height="300">
 <p>    
 
-### Always curious to learn cutting edge technology. :satellite:    
+### Always curious to learn cutting edge technology. :satellite: 
+###### Sempre curiosa para apredender técnologia de ponta.
 ### Over here you'll find:
+###### Aqui você encontrará:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DottaMP&layout=compact&theme=radical)
 <p align="left">   
 
-###### and more...    
+###### and more... 
+###### e mais...
 
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/java.png" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/js.png" width="70" height="20">&nbsp;
