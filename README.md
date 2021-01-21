@@ -27,17 +27,17 @@ This is the place where i opensource stuff and break things. :sparkles:
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/java.png" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/js.png" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/python.png" width="70" height="20">&nbsp;
-![MySQL Badge](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=MySQL&logoColor=white&link=https://codepen.io/laly_x/collections/)&nbsp;
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/docker.png" width="70" height="20">&nbsp;
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/angular.png" width="70" height="20">&nbsp; 
-![Spring Boot Badge](https://img.shields.io/badge/-SpringBoot-success?style=flat&logo=Spring&logoColor=white&link=https://codepen.io/laly_x/collections/)&nbsp;
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/nodejs.png" width="70" height="20">&nbsp;
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/angular.png" width="70" height="20">&nbsp;     
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/bootstrap.png" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio.png" width="70" height="20">&nbsp;
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/css3.png" width="70" height="20">&nbsp;
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/web.png" width="70" height="20">&nbsp;    
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="70" height="20">&nbsp;
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" width="70" height="20">&nbsp;
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/web.png" width="70" height="20">&nbsp;
 
-&nbsp; <img src="https://media0.giphy.com/media/AOSwwqVjNZlDO/200w.webp?cid=ecf05e4758d1a0e51cc00438214c03daf26abc95ba41b2d2&rid=200w.webp" width="250" height="125">
+<!--&nbsp; <img src="https://media0.giphy.com/media/AOSwwqVjNZlDO/200w.webp?cid=ecf05e4758d1a0e51cc00438214c03daf26abc95ba41b2d2&rid=200w.webp" width="250" height="125">
 
 
 <!--
