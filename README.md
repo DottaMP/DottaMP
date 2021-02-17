@@ -1,12 +1,12 @@
-# Hi, I'm Mayara 👩‍💻 
+# Hi, I am Mayara 👩‍💻 
 # Oi, sou a Mayara 
-### Here's my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mayara-pdotta/)](https://www.linkedin.com/in/mayara-pdotta/)    
+### Here is my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mayara-pdotta/)](https://www.linkedin.com/in/mayara-pdotta/)    
 ###### Aqui está meu LinkedIn.
 
-A woman who can programming and love technology. :coffee:  
+A woman who can program and love technology. :coffee:  
 ###### Uma mulher que sabe programar e ama técnologia.
 
-This is the place where i opensource stuff and break things. :sparkles:
+This is the place where I opensource stuff and break things. :sparkles:
 ###### Esse é o lugar onde eu abro o código e quebro coisas...
 
 <p align="left">
@@ -15,7 +15,7 @@ This is the place where i opensource stuff and break things. :sparkles:
 
 ### Always curious to learn cutting edge technology. :satellite: 
 ###### Sempre curiosa para apredender técnologia de ponta.
-### Over here you'll find:
+### Over here you all find:
 ###### Aqui você encontrará:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DottaMP&layout=compact&theme=radical)
