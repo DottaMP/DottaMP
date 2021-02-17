@@ -4,7 +4,7 @@
 ###### Aqui está meu LinkedIn.
 
 A woman who can program and love technology. :coffee:  
-###### Uma mulher que sabe programar e ama técnologia.
+###### Uma mulher que sabe programar e ama tecnologia.
 
 This is the place where I opensource stuff and break things. :sparkles:
 ###### Esse é o lugar onde eu abro o código e quebro coisas...
@@ -14,7 +14,7 @@ This is the place where I opensource stuff and break things. :sparkles:
 <p>    
 
 ### Always curious to learn cutting edge technology. :satellite: 
-###### Sempre curiosa para apredender técnologia de ponta.
+###### Sempre curiosa para apredender tecnologia de ponta.
 ### Over here you all find:
 ###### Aqui você encontrará:
 
