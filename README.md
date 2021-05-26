@@ -3,7 +3,7 @@
 ### Here is my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mayara-pdotta/)](https://www.linkedin.com/in/mayara-pdotta/)    
 ###### Aqui está meu LinkedIn.
 
-A woman who can program and loves technology. :coffee:  
+A woman who knows program and loves technology. :coffee:  
 ###### Uma mulher que sabe programar e ama tecnologia.
 
 This is the place where I opensource stuff and break things. :sparkles:
