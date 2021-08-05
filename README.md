@@ -1,9 +1,9 @@
 # Hi, I am Mayara 👩‍💻 
 # Oi, sou a Mayara 
-### Here is my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mayara-pdotta/)](https://www.linkedin.com/in/dottamp/)    
+### Here is my  <a href="https://www.linkedin.com/in/dottamp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ###### Aqui está meu LinkedIn.
 
-A woman who knows programming and loves technology. :coffee:  
+A woman who loves programming, technology and coffee. :coffee:  
 ###### Uma mulher que sabe programar e ama tecnologia.
 
 This is the place where I opensource stuff and break things. :sparkles:
@@ -13,8 +13,8 @@ This is the place where I opensource stuff and break things. :sparkles:
 <img src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e478gsfqosh67e3ktlzte0ktzlkc0x155caglw3mpq3&rid=giphy.gif" width="600" height="300">
 <p>    
 
-### Always curious to learn cutting edge technology. :satellite: 
-###### Sempre curiosa para apredender tecnologia de ponta.
+### I'm curious to learn and understand the latest technology. :satellite: 
+###### Estou curiosa para aprender e entender as tecnologias mais recentes.
 ### Over here you all find:
 ###### Aqui você encontrará:
 
