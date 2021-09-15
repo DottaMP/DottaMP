@@ -1,4 +1,8 @@
+<center>
+    <tr>
 <img width="1000px" src="https://github.com/DottaMP/DottaMP/blob/master/imagens/Capa_github.png" />
+    </tr>   
+</center>  
 
 <center>
   <table>
@@ -16,7 +20,7 @@
 
 Sou estudante do curso de Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia do Estado de São Paulo, atuo na área como Analista de Qualidade de TI desde 2020 mesmo ano onde realizei o Bootcamp da Generation Brasil, tornando-me assim uma pessoa desenvolvedora Java Jr.
 
-Amo "nerdices" :nerd_face:, ler :books:, ver filmes/séries :film_strip: e café :coffee:
+Amo "nerdices" :nerd_face:, ler :books:, ver filmes/séries :film_strip:, viajar :world_map: e café :coffee:
 
 ---
 
