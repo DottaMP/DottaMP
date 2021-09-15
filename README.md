@@ -28,6 +28,12 @@ A tecnologia mudou a minha vida, por isso hoje incentivo outras mulheres a entra
 
 ---
 
+---
+  
+![](https://github.com/DottaMP/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
 <p align="left">
 <img src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e478gsfqosh67e3ktlzte0ktzlkc0x155caglw3mpq3&rid=giphy.gif" width="600" height="300">
 <p>  
@@ -37,9 +43,9 @@ A tecnologia mudou a minha vida, por isso hoje incentivo outras mulheres a entra
 <p align="left">
 <img src="https://media2.giphy.com/media/JIX9t2j0ZTN9S/200w.webp?cid=ecf05e47t0qpavyg5iy7bud1iyuz7sjp4e77bmixkzd3d64l&rid=200w.webp&ct=g" width="600" height="300">
 <p>  
-  
+
 ---
-  
+
 <!--
 A woman who loves programming, technology and coffee. :coffee:  
 ###### Uma mulher que ama programar, tecnologia e café.
