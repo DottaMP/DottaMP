@@ -1,5 +1,4 @@
-![capa github](https://github.com/DottaMP/DottaMP/blob/master/imagens/Capa_github.png)  
-
+<img width="1000px" src="https://github.com/DottaMP/DottaMP/blob/master/imagens/Capa_github.png" />
 
 <center>
   <table>
@@ -10,11 +9,9 @@
   </table>
 </center>  
 
-Capa_github.png
 ---
 
-# Hi, I am Mayara 👩‍💻 
-# Oi, sou a Mayara 
+# Oi, sou a Mayara 👩‍💻 
 
 ---
 
@@ -24,7 +21,7 @@ Amo "nerdices" :nerd_face:, ler :books:, ver filmes/séries :film_strip: e café
 
 ---
 
-A tecnologia mudou a minha vida, por isso hoje incentivo outras mulheres a entrarem nesse mundo e a acreditarem em si mesmas, para fazermos dele um lugar mais diverso e equalitário :heavy_heart_exclamation:  
+A tecnologia mudou a minha vida, por isso hoje incentivo outras mulheres a entrarem nesse mundo e a acreditarem em si mesmas para fazermos dele um lugar mais diverso e equalitário :heavy_heart_exclamation:  
 
 ---
 
