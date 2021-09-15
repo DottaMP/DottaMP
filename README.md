@@ -1,8 +1,4 @@
-<center>
-    <tr>
-<img width="1000px" src="https://github.com/DottaMP/DottaMP/blob/master/imagens/Capa_github.png" />
-    </tr>   
-</center>  
+<img width="1000px" src="https://github.com/DottaMP/DottaMP/blob/master/imagens/Capa_github.png" />  
 
 <center>
   <table>
@@ -12,8 +8,6 @@
     </tr>   
   </table>
 </center>  
-
----
 
 # Oi, sou a Mayara 👩‍💻 
 
