@@ -1,17 +1,56 @@
+![capa github](https://github.com/DottaMP/DottaMP/blob/master/imagens/Capa_github.png)  
+
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DottaMP&hide=html&layout=compact&theme=radical" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=DottaMP&theme=radical"/></td>
+    </tr>   
+  </table>
+</center>  
+
+Capa_github.png
+---
+
 # Hi, I am Mayara 👩‍💻 
 # Oi, sou a Mayara 
-### How to reach me: <a href="https://dottamp.github.io/" target="_blank"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=informational&up_message=find%20me%20here&url=https%3A%2F%2Fdottamp.github.io%2F" target="_blank"></a> 
-###### Como me encontrar:
 
-A woman who loves programming, technology and coffee. :coffee:  
-###### Uma mulher que ama programar, tecnologia e café.
+---
 
-This is the place where I opensource stuff and break things. :sparkles:
-###### Esse é o lugar onde eu abro o código e quebro coisas...
+Sou estudante do curso de Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia do Estado de São Paulo, atuo na área como Analista de Qualidade de TI desde 2020 mesmo ano onde realizei o Bootcamp da Generation Brasil, tornando-me assim uma pessoa desenvolvedora Java Jr.
+
+Amo "nerdices" :nerd_face:, ler :books:, ver filmes/séries :film_strip: e café :coffee:
+
+---
+
+A tecnologia mudou a minha vida, por isso hoje incentivo outras mulheres a entrarem nesse mundo e a acreditarem em si mesmas, para fazermos dele um lugar mais diverso e equalitário :heavy_heart_exclamation:  
+
+---
+
+### Onde me encontrar? :mag: <a href="https://dottamp.github.io/" target="_blank"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=informational&up_message=find%20me%20here&url=https%3A%2F%2Fdottamp.github.io%2F" target="_blank"></a> 
+
+---
 
 <p align="left">
 <img src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e478gsfqosh67e3ktlzte0ktzlkc0x155caglw3mpq3&rid=giphy.gif" width="600" height="300">
-<p>    
+<p>  
+<p align="right">
+<img src="https://media2.giphy.com/media/VZCFpF6sUyoG6l5SrY/100.webp?cid=ecf05e47rnn46p772ekuoa7ocxclm3g0acjtyat2f1ml92t4&rid=100.webp&ct=g" width="600" height="300">
+<p>  
+<p align="left">
+<img src="https://media2.giphy.com/media/JIX9t2j0ZTN9S/200w.webp?cid=ecf05e47t0qpavyg5iy7bud1iyuz7sjp4e77bmixkzd3d64l&rid=200w.webp&ct=g" width="600" height="300">
+<p>  
+  
+---
+  
+<!--
+A woman who loves programming, technology and coffee. :coffee:  
+###### Uma mulher que ama programar, tecnologia e café.
+---
+This is the place where I opensource stuff and break things. :sparkles:
+###### Esse é o lugar onde eu abro o código e quebro coisas...
+---  
 
 ### I'm curious to learn and understand the latest technology. :satellite: 
 ###### Estou curiosa para aprender e entender as tecnologias mais recentes.
@@ -24,7 +63,7 @@ This is the place where I opensource stuff and break things. :sparkles:
 ###### and more... 
 ###### e mais...
 
-<!-- <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/java.png" width="70" height="20">&nbsp;
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/java.png" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/js.png" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/python.png" width="70" height="20">&nbsp;
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="70" height="20">&nbsp;
