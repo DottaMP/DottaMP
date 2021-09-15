@@ -13,7 +13,6 @@
 
 # Oi, sou a Mayara 👩‍💻 
 
----
 
 Sou estudante do curso de Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia do Estado de São Paulo, atuo na área como Analista de Qualidade de TI desde 2020 mesmo ano onde realizei o Bootcamp da Generation Brasil, tornando-me assim uma pessoa desenvolvedora Java Jr.
 
