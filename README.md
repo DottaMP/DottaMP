@@ -27,10 +27,8 @@ A tecnologia mudou a minha vida, por isso hoje incentivo outras mulheres a entra
 ### Onde me encontrar? :mag: <a href="https://dottamp.github.io/" target="_blank"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=informational&up_message=find%20me%20here&url=https%3A%2F%2Fdottamp.github.io%2F" target="_blank"></a> 
 
 ---
-
----
   
-![](https://github.com/DottaMP/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
