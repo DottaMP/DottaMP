@@ -1,7 +1,7 @@
 # Hi, I am Mayara 👩‍💻 
 # Oi, sou a Mayara 
-### Here is my  <a href="https://www.linkedin.com/in/dottamp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-###### Aqui está meu LinkedIn.
+### How to reach me: <a href="https://dottamp.github.io/" target="_blank"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=informational&up_message=find%20me%20here&url=https%3A%2F%2Fdottamp.github.io%2F" target="_blank"></a> 
+###### Como me encontrar:
 
 A woman who loves programming, technology and coffee. :coffee:  
 ###### Uma mulher que ama programar, tecnologia e café.
@@ -24,7 +24,7 @@ This is the place where I opensource stuff and break things. :sparkles:
 ###### and more... 
 ###### e mais...
 
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/java.png" width="70" height="20">&nbsp;
+<!-- <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/java.png" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/js.png" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/python.png" width="70" height="20">&nbsp;
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="70" height="20">&nbsp;
@@ -37,7 +37,7 @@ This is the place where I opensource stuff and break things. :sparkles:
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" width="70" height="20">&nbsp;
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/web.png" width="70" height="20">&nbsp;
 
-<!--&nbsp; <img src="https://media0.giphy.com/media/AOSwwqVjNZlDO/200w.webp?cid=ecf05e4758d1a0e51cc00438214c03daf26abc95ba41b2d2&rid=200w.webp" width="250" height="125">
+&nbsp; <img src="https://media0.giphy.com/media/AOSwwqVjNZlDO/200w.webp?cid=ecf05e4758d1a0e51cc00438214c03daf26abc95ba41b2d2&rid=200w.webp" width="250" height="125">
 
 
 <!--
