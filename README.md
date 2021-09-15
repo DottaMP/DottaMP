@@ -26,7 +26,7 @@ A tecnologia mudou a minha vida, por isso hoje incentivo outras mulheres a entra
 
 ---
   
-![](https://github.com/DottaMP/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DottaMP/DottaMP/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
