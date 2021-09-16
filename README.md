@@ -12,13 +12,13 @@
 # Oi, sou a Mayara 👩‍💻 
 
 
-Sou estudante do curso de Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia do Estado de São Paulo, atuo na área como Analista de Qualidade de TI desde 2020 mesmo ano onde realizei o Bootcamp da Generation Brasil, tornando-me assim uma pessoa desenvolvedora Java Jr.
+Sou estudante do curso de Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia do Estado de São Paulo. Atuo na área como Analista de Qualidade de TI, desde 2020, mesmo ano onde realizei o Bootcamp da Generation Brasil, tornando-me assim uma pessoa desenvolvedora Java Jr.
 
 Amo "nerdices" :nerd_face:, ler :books:, ver filmes/séries :film_strip:, viajar :world_map: e café :coffee:
 
 ---
 
-A tecnologia mudou a minha vida, por isso hoje incentivo outras mulheres a entrarem nesse mundo e a acreditarem em si mesmas para fazermos dele um lugar mais diverso e equalitário :heavy_heart_exclamation:  
+A tecnologia mudou a minha vida, por isso hoje incentivo outras mulheres a entrarem nesse mundo e acreditarem em si mesmas para fazermos dele um lugar mais diverso e iqualitário :heavy_heart_exclamation:  
 
 ---
 
