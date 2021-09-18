@@ -3,8 +3,8 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DottaMP&hide=html&layout=compact&theme=radical" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=DottaMP&theme=radical"/></td>
+        <td><img width="430px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DottaMP&hide=html&layout=compact&theme=radical" /></td>
+        <td><img width="440px" height="200" align="right" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e478gsfqosh67e3ktlzte0ktzlkc0x155caglw3mpq3&rid=giphy.gif"/></td>
     </tr>   
   </table>
 </center>  
@@ -32,7 +32,7 @@ A tecnologia transformou a minha vida, por isso hoje, incentivo outras mulheres 
 ---
 
 <p align="left">
-<img src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e478gsfqosh67e3ktlzte0ktzlkc0x155caglw3mpq3&rid=giphy.gif" width="600" height="300">
+<img src="https://media.giphy.com/media/3D1v8iexqiPbq/giphy.gif?cid=790b7611e2815723b05cf87bd4148adb63e8ef0c2e21924d&rid=giphy.gif&ct=g" width="600" height="300">
 <p>  
 <p align="right">
 <img src="https://media2.giphy.com/media/VZCFpF6sUyoG6l5SrY/100.webp?cid=ecf05e47rnn46p772ekuoa7ocxclm3g0acjtyat2f1ml92t4&rid=100.webp&ct=g" width="600" height="300">
