@@ -12,12 +12,10 @@
 # Oi, sou a Mayara 👩‍💻 
 
 
-Sou estudante do curso de Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia do Estado de São Paulo.    
-<<<<<<< HEAD
-Atuo na área como Analista de Desenvolvimento de Sistemas e DevOps, desde 2020, mesmo ano onde realizei o Bootcamp da Generation Brasil, tornando-me assim uma pessoa desenvolvedora Java Jr.
-=======
+Sou estudante do curso de Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia do Estado de São Paulo.    Atuo na área como Analista de Desenvolvimento de Sistemas e DevOps, desde 2020, mesmo ano onde realizei o Bootcamp da Generation Brasil, tornando-me assim uma pessoa desenvolvedora Java Jr.
+    
 Atuo na área como Analista de Engenharia de TI, desde 2020, mesmo ano onde realizei o Bootcamp da Generation Brasil, tornando-me assim uma pessoa desenvolvedora Java Jr.
->>>>>>> 0a76cf73d1afdea0a596845a1407f282192bcc68
+
 
 Amo "nerdices" :nerd_face:, ler :books:, ver filmes/séries :film_strip:, viajar :world_map: e café :coffee:
 
