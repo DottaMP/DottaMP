@@ -39,9 +39,6 @@ A tecnologia transformou a minha vida, por isso hoje, incentivo outras mulheres 
 <img src="https://media.giphy.com/media/3D1v8iexqiPbq/giphy.gif?cid=790b7611e2815723b05cf87bd4148adb63e8ef0c2e21924d&rid=giphy.gif&ct=g" width="600" height="300">
 <p>  
 <p align="right">
-<img src="https://media2.giphy.com/media/VZCFpF6sUyoG6l5SrY/100.webp?cid=ecf05e47rnn46p772ekuoa7ocxclm3g0acjtyat2f1ml92t4&rid=100.webp&ct=g" width="600" height="300">
-<p>  
-<p align="left">
 <img src="https://media2.giphy.com/media/JIX9t2j0ZTN9S/200w.webp?cid=ecf05e47t0qpavyg5iy7bud1iyuz7sjp4e77bmixkzd3d64l&rid=200w.webp&ct=g" width="600" height="300">
 <p>  
 
